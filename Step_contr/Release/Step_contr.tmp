@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATtiny2313A"</DEVICE>
+ <WORKING_DIR>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\tn2313Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Release/Step_contr.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Step_contr.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Step_contr.map</FILE>
+  <FILE>Step_contr.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <buf><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>28</LINE></buf>
+  <start><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>36</LINE></start>
+  <init><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>57</LINE></init>
+  <STOP><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>273</LINE></STOP>
+  <main><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>102</LINE></main>
+  <m2><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>182</LINE></m2>
+  <m13><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>111</LINE></m13>
+  <m21><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>129</LINE></m21>
+  <m11><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>117</LINE></m11>
+  <m12><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>123</LINE></m12>
+  <wait_long><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>286</LINE></wait_long>
+  <m8><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>135</LINE></m8>
+  <wait_short><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>301</LINE></wait_short>
+  <m6><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>157</LINE></m6>
+  <m18><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>148</LINE></m18>
+  <imp><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>249</LINE></imp>
+  <m17><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>164</LINE></m17>
+  <m5><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>175</LINE></m5>
+  <m3><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>198</LINE></m3>
+  <m9><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>191</LINE></m9>
+  <m10><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>194</LINE></m10>
+  <m14><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>212</LINE></m14>
+  <m15><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>205</LINE></m15>
+  <m16><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>208</LINE></m16>
+  <m4><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>230</LINE></m4>
+  <m19><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>255</LINE></m19>
+  <m1><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>268</LINE></m1>
+  <m20><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>264</LINE></m20>
+  <m7><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>282</LINE></m7>
+  <wt1><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>291</LINE></wt1>
+  <wt2><FILE>D:\Chips\Atmel\Stepper controller\Stepper_controller3\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>305</LINE></wt2>
+ </LABELS>
+</ASSEMBLER_INFO>
