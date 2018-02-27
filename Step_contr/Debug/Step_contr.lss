@@ -1,14 +1,14 @@
 
-AVRASM ver. 2.1.52  F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm Sun Feb 25 00:11:28 2018
+AVRASM ver. 2.1.52  F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm Sun Feb 25 23:38:55 2018
 
 [builtin](2): Including file 'C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\tn2313adef.inc'
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(24): Including file 'C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\tn2313Adef.inc'
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(27): warning: Register r31 already defined by the .DEF directive
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(28): warning: Register r30 already defined by the .DEF directive
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(29): warning: Register r29 already defined by the .DEF directive
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(30): warning: Register r28 already defined by the .DEF directive
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(31): warning: Register r27 already defined by the .DEF directive
-F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm(32): warning: Register r26 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(24): Including file 'C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\tn2313Adef.inc'
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(27): warning: Register r31 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(28): warning: Register r30 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(29): warning: Register r29 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(30): warning: Register r28 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(31): warning: Register r27 already defined by the .DEF directive
+F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm(32): warning: Register r26 already defined by the .DEF directive
                  
                  /* Program for controlling stepper motor driver and shutter of camera to make 3D photo of goods
                  

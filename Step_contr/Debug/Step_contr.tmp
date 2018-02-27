@@ -1,54 +1,54 @@
 <ASSEMBLER_INFO>
  <VERSION>2.1.52</VERSION>
  <DEVICE>"ATtiny2313A"</DEVICE>
- <WORKING_DIR>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Debug</WORKING_DIR>
+ <WORKING_DIR>F:\GITHub\3D_photo_controller\Step_contr\Debug</WORKING_DIR>
  <INCLUDE_PATH>
   <DIR>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</SOURCE_FILE>
+ <SOURCE_FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</SOURCE_FILE>
  <INCLUDED_FILES>
   <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\tn2313adef.inc</FILE>
   <FILE>C:\Program Files (x86)\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\tn2313Adef.inc</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Debug/Step_contr.obj</FILE>
+  <FILE>F:\GITHub\3D_photo_controller\Step_contr\Debug/Step_contr.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
-  <FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Debug/Step_contr.hex</FILE>
+  <FILE>F:\GITHub\3D_photo_controller\Step_contr\Debug/Step_contr.hex</FILE>
  </HEX_FILES>
  <OUTPUT_FILES>
-  <FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Debug\Step_contr.map</FILE>
-  <FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Debug\Step_contr.lss</FILE>
+  <FILE>F:\GITHub\3D_photo_controller\Step_contr\Debug\Step_contr.map</FILE>
+  <FILE>F:\GITHub\3D_photo_controller\Step_contr\Debug\Step_contr.lss</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <start><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>44</LINE></start>
-  <init><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>65</LINE></init>
-  <STOP><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>257</LINE></STOP>
-  <main><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>101</LINE></main>
-  <m2><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>168</LINE></m2>
-  <m13><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>110</LINE></m13>
-  <m21><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>127</LINE></m21>
-  <m11><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>116</LINE></m11>
-  <m12><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>122</LINE></m12>
-  <wait_long><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>269</LINE></wait_long>
-  <m8><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>132</LINE></m8>
-  <wait_short><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>281</LINE></wait_short>
-  <m6><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>144</LINE></m6>
-  <imp><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>235</LINE></imp>
-  <m17><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>151</LINE></m17>
-  <m5><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>161</LINE></m5>
-  <m3><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>184</LINE></m3>
-  <m9><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>177</LINE></m9>
-  <m10><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>180</LINE></m10>
-  <m14><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>198</LINE></m14>
-  <m15><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>191</LINE></m15>
-  <m16><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>194</LINE></m16>
-  <m4><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>216</LINE></m4>
-  <start_CLK><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>240</LINE></start_CLK>
-  <stop_CLK><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>252</LINE></stop_CLK>
-  <next_CLK><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>249</LINE></next_CLK>
-  <exit_STOP><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>266</LINE></exit_STOP>
-  <wt1><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>273</LINE></wt1>
-  <wt2><FILE>F:\Chips\Atmel\Projects\Classic Stepper controller\Stepper_controller\Step_contr\Step_contr\Step_contr.asm</FILE><LINE>284</LINE></wt2>
+  <start><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>44</LINE></start>
+  <init><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>65</LINE></init>
+  <STOP><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>257</LINE></STOP>
+  <main><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>101</LINE></main>
+  <m2><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>168</LINE></m2>
+  <m13><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>110</LINE></m13>
+  <m21><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>127</LINE></m21>
+  <m11><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>116</LINE></m11>
+  <m12><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>122</LINE></m12>
+  <wait_long><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>269</LINE></wait_long>
+  <m8><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>132</LINE></m8>
+  <wait_short><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>281</LINE></wait_short>
+  <m6><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>144</LINE></m6>
+  <imp><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>235</LINE></imp>
+  <m17><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>151</LINE></m17>
+  <m5><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>161</LINE></m5>
+  <m3><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>184</LINE></m3>
+  <m9><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>177</LINE></m9>
+  <m10><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>180</LINE></m10>
+  <m14><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>198</LINE></m14>
+  <m15><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>191</LINE></m15>
+  <m16><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>194</LINE></m16>
+  <m4><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>216</LINE></m4>
+  <start_CLK><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>240</LINE></start_CLK>
+  <stop_CLK><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>252</LINE></stop_CLK>
+  <next_CLK><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>249</LINE></next_CLK>
+  <exit_STOP><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>266</LINE></exit_STOP>
+  <wt1><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>273</LINE></wt1>
+  <wt2><FILE>F:\GITHub\3D_photo_controller\Step_contr\Step_contr.asm</FILE><LINE>284</LINE></wt2>
  </LABELS>
 </ASSEMBLER_INFO>
